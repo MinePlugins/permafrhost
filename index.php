@@ -31,34 +31,10 @@
 			 </div>			 
 		</div>
 	</div>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-		<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
+	<div class="header-clouds">
+		<img class="header-clouds" src="images/header-clouds.png">
+	</div>
+
 	<div id='etoile'></div>
 	<div id='etoile2'></div>
 	<div id='etoile3'></div>
