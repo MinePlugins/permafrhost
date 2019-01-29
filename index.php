@@ -20,15 +20,45 @@
 			 	<h1>Créer ton site en 3 étapes</h1>
 			 </div>
 			 <div class="item">
-			 	<p>BlaBla</p>
+			 	<h1>Créer ton site en 3 étapes</h1>
+			 	
 			 	
 			 </div>
 			 <div class="item">
-			 	<p>BlaBla</p>
+			 	<h1>Créer ton site en 3 étapes</h1>
+			 	
 			 	
 			 </div>			 
 		</div>
 	</div>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+		<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
 	<div id='etoile'></div>
 	<div id='etoile2'></div>
 	<div id='etoile3'></div>
