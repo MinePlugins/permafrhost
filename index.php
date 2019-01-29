@@ -32,14 +32,16 @@
 		</div>
 	</div>
 	<div class="header-clouds">
-		<img class="header-clouds" src="images/header-clouds.png">
+		<img class="clouds" src="images/header-clouds.png">
+	</div>
+	<div class="box">
 	</div>
 
+</div>
 	<div id='etoile'></div>
 	<div id='etoile2'></div>
 	<div id='etoile3'></div>
-</div>
-
+	<h1>Salut</h1>
 <script type="text/javascript">
 	$('.owl-carousel').owlCarousel({
     loop:true,
