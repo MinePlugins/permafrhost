@@ -1,4 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Metrophobic|Montserrat|Palanquin+Dark');
+*, *:before, *:after {
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+}
 body {
   margin: 0;
   color: white;
@@ -106,7 +111,6 @@ div.owl-carousel .owl-nav .owl-prev, div.owl-carousel .owl-nav .owl-next{
   height: 80%;
   display: block;
   background: radial-gradient(ellipse at bottom, #1b2735 0%, #090a0f 100%);
-  box-sizing: border-box;
 
 }
 #etoile {
