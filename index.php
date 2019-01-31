@@ -32,11 +32,45 @@
 		</div>
 	</div>
 		<img class="clouds" src="images/header-clouds.png">
-	
-
 </div>
-
-	<h1>Salut</h1>
+<div class="actions">
+	<div class="action">
+		<img src="images/votresite.svg">
+		<h1>Votre site</h1>
+		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<p>
+		<a href="#">En savoir plus</a>
+	</div>
+	<div class="action">
+		<img src="images/responsive.svg">
+		<h1>responsive</h1>
+		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<p>
+		<a href="#">En savoir plus</a>
+	</div>
+	<div class="action">
+		<img src="images/hebergement.svg">
+		<h1>hebergement</h1>
+		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<p>
+		<a href="#">En savoir plus</a>
+	</div>
+	<div class="action">
+		<img src="images/graphisme.svg">
+		<h1>graphisme</h1>
+		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<p>
+		<a href="#">En savoir plus</a>
+	</div>
+	<div class="action">
+		<img src="images/referencement.svg">
+		<h1>referencement</h1>
+		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<p>
+		<a href="#">En savoir plus</a>
+	</div>
+	<div class="action">
+		<img src="images/maintenance.svg">
+		<h1>maintenance</h1>
+		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<p>
+		<a href="#">En savoir plus</a>
+	</div>
+</div>
 <script type="text/javascript">
 	$('.owl-carousel').owlCarousel({
     loop:true,
