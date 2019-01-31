@@ -8,6 +8,7 @@ body {
   margin: 0;
   color: white;
   overflow-x: hidden;
+
 }
 ul {
   margin: 0;
@@ -16,6 +17,8 @@ ul {
 li {
   list-style: none;
 }
+
+
 .actions {
   position: relative;
   top: -8em;
@@ -190,3 +193,6 @@ div.owl-carousel .owl-nav .owl-prev, div.owl-carousel .owl-nav .owl-next{
     transform: translateY(-2000px);
   }
 }
+
+/* SCROLL BAR */
+
