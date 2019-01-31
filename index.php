@@ -1,9 +1,9 @@
 <?php
 	require_once 'includes/header.php';
 ?>
-<link href='https://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
+<script src="assets/snow.js"></script>
 <div class="arriere-plan">
-
+	<canvas id="sky"></canvas>
 	<div class="navbar">
 		<div class="navitem"><img class="logo" src="images/Logo.png" /></div>
 		<div class="espace"></div>
@@ -34,13 +34,10 @@
 	<div class="header-clouds">
 		<img class="clouds" src="images/header-clouds.png">
 	</div>
-	<div class="box">
-	</div>
+	
 
 </div>
-	<div id='etoile'></div>
-	<div id='etoile2'></div>
-	<div id='etoile3'></div>
+
 	<h1>Salut</h1>
 <script type="text/javascript">
 	$('.owl-carousel').owlCarousel({
