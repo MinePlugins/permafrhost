@@ -31,9 +31,7 @@
 			 </div>			 
 		</div>
 	</div>
-	<div class="header-clouds">
 		<img class="clouds" src="images/header-clouds.png">
-	</div>
 	
 
 </div>
