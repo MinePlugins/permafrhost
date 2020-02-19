@@ -18,7 +18,6 @@ li {
 }
 .actions {
   position: relative;
-  top: -8em;
   display: flex;
   flex-wrap: wrap;
   margin-left: auto;
